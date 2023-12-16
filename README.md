@@ -1,6 +1,6 @@
 ## Task Queue Manager
 
-The **Task Queue Manager** module is helps give better control with the Mendix Task Queue feature. It provides information on the queued and processed tasks, allows you to retry failed tasks and schedule new microflows/tasks with a specific execution time.
+The **Task Queue Manager** module is designed to enhance your experience with Mendix's Task Queue. It provides information on the queued and processed tasks, allows you to retry failed tasks and schedule new microflows/tasks with a specific execution time.
 
 ## Features
 
