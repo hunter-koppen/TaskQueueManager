@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.mendix.com/package/1.0/">
+  <modelerProject xmlns="http://www.mendix.com/modelerProject/1.0/">
+    <module name="TaskQueueManager" />
+    <projectFile path="project.mpr" />
+    <files>
+      <file path="javasource/taskqueuemanager/actions/ScheduleMicroflow_Objects.java" />
+      <file path="javasource/taskqueuemanager/actions/ScheduleMicroflow_Strings.java" />
+      <file path="javasource/taskqueuemanager/actions/ProcessedQueueTask_Retry.java" />
+      <file path="themesource/taskqueuemanager/settings.json" />
+      <file path="themesource/taskqueuemanager/native/design-properties.json" />
+      <file path="themesource/taskqueuemanager/native/main.js" />
+      <file path="themesource/taskqueuemanager/web/design-properties.json" />
+      <file path="themesource/taskqueuemanager/web/main.scss" />
+    </files>
+  </modelerProject>
+</package>
